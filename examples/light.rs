@@ -14,7 +14,7 @@ use bevy::{
     window::WindowResized,
 };
 use bevy_egui::*;
-use lommix_light::prelude::*;
+use ashscript_solis_2d::prelude::*;
 
 pub fn main() {
     App::new()
